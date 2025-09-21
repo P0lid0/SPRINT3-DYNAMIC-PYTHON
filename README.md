@@ -1,4 +1,10 @@
 # :gráfico_de_barras: Dynamic Programming — Controle de Insumos 
+RM:
+Guilherme - 554962
+Pedro - 555556
+Fabrício - 558216
+Vitor - 554893
+Matheus - 555447
 Este projeto simula o **consumo diário de insumos** (reagentes e descartáveis) em unidades de diagnóstico e demonstra, de forma didática, o uso de **estruturas de dados** e **algoritmos clássicos** em Python: 
 Fila 
 Pilha 
